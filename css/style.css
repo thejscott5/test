@@ -16,7 +16,7 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Droid Serif", serif;
+  font-family: 'Source Sans Pro', sans-serif;
   color: #333333;
   background-color: white;
   /* prevent ie from showing the horizontal scrollbar */
@@ -113,7 +113,7 @@ main.slide-out .cd-overlay {
   max-width: 768px;
 }
 .cd-section h2 {
-  font-family: "Droid Sans", sans-serif;
+ font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 1em;
@@ -151,7 +151,7 @@ header {
 header h1 {
   font-size: 30px;
   font-size: 1.875rem;
-  font-family: "Droid Sans", sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: .4em;
@@ -233,14 +233,14 @@ header p {
   height: 80px;
   background: #FFF;
   text-align: center;
-  font-family: "Droid Sans", sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
   padding-top: 20px;
   border-radius: 0 0 .25em .25em;
 }
 #cd-team .cd-member-info span {
   display: block;
-  font-family: "Droid Serif", serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: normal;
   color: #999999;
   font-size: 14px;
@@ -316,7 +316,7 @@ header p {
   color: #FFF;
 }
 .cd-member-bio .cd-bio-content h1 {
-  font-family: "Droid Sans", sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   text-align: center;
@@ -392,7 +392,7 @@ header p {
   position: fixed;
   top: 10px;
   right: 10px;
-  background: url("../img/cd-icon-close.svg") no-repeat center center;
+  background: url("https://github.com/thejscott5/test/img/cd-icon-close.svg") no-repeat center center;
   text-indent: 100%;
   white-space: nowrap;
   z-index: 3;
